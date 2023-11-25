@@ -1,8 +1,7 @@
 ## CompactBool
 
-O que é isso? Simples, nem eu sei direito, fiz so pra praticar um pouco.
-O CompactBool é meio que uma alternativa que gasta menos memoria do que o bool, o tipo bool ocupa 1 byte e guarda somente um valor, o CompactBool usa de manipulação de bits para armazenar o maior numero possivel de valores em um byte, mas com isso vem a perca de desempenho, sinceramente nao há motivos de usar isso. Use bitset ao inves disso.
-
+O que é isso? Simples, nem eu sei direito, fiz so pra praticar um pouco.  
+O CompactBool é meio que uma alternativa que gasta menos memoria do que o bool, o tipo bool ocupa 1 byte e guarda somente um valor, o CompactBool usa de manipulação de bits para armazenar o maior numero possivel de valores em um byte, mas com isso vem a perca de desempenho, sinceramente nao há motivos de usar isso. Use bitset ao inves disso.  
 ### Exemplo
 
 ```cpp
